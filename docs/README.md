@@ -63,7 +63,7 @@ O ExpandableComponent é um componente React que limita a altura do conteúdo e 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/felipealmeidacorrea"><img src="https://avatars.githubusercontent.com/u/80332784?s=400&u=39a0fae5c173287e464a808efc28e146b5c6f299&v=4?s=100" width="100px;" alt="Felipe Almeida Correa"/><br /><sub><b>Felipe Almeida Correa</b></sub></a><br /><a href="https://github.com/fac-vtex-io-apps/fac-expandable-component/commits?author=felipealmeidacorrea" title="Code">💻</a> <a href="#tutorial-felipealmeidacorrea" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/felipealmeidacorrea"><img src="https://avatars.githubusercontent.com/u/80332784?s=400&u=39a0fae5c173287e464a808efc28e146b5c6f299&v=4?s=100" width="100px;" alt="Felipe Almeida Correa"/><br /><sub><b>Felipe Almeida Correa</b></sub></a><br /><a href="https://github.com/fac-vtex-io-apps/fac-expandable-component/commits?author=felipealmeidacorrea" title="Code">💻</a> <a href="#tutorial-felipealmeidacorrea" title="Tutorials">✅</a> <a href="https://github.com/fac-vtex-io-apps/fac-expandable-component/commits?author=felipealmeidacorrea" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
