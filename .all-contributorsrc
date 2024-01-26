@@ -1,25 +1,27 @@
 {
-    "projectName": "fac-expandable-component",
-    "projectOwner": "Felipe Almeida Correa",
-    "repoType": "github",
-    "repoHost": "https://github.com",
-    "files": [
-        "docs/README.md"
-    ],
-    "imageSize": 100,
-    "commit": false,
-    "commitConvention": "none",
-    "contributors": [
-        {
-            "login": "felipealmeidacorrea",
-            "name": "Felipe Almeida Correa",
-            "avatar_url": "https://avatars.githubusercontent.com/u/80332784?s=400&u=39a0fae5c173287e464a808efc28e146b5c6f299&v=4",
-            "profile": "https://github.com/felipealmeidacorrea",
-            "contributions": [
-                "code"
-            ]
-        }
-    ],
-    "contributorsPerLine": 7,
-    "skipCi": true
+  "projectName": "fac-expandable-component",
+  "projectOwner": "fac-vtex-io-apps",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "docs/README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "felipealmeidacorrea",
+      "name": "Felipe Almeida Correa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80332784?s=400&u=39a0fae5c173287e464a808efc28e146b5c6f299&v=4",
+      "profile": "https://github.com/felipealmeidacorrea",
+      "contributions": [
+        "code",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "commitType": "docs"
 }
