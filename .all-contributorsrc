@@ -1,4 +1,25 @@
 {
-  "projectName": "fac-expandable-component",
-  "projectOwner": "Felipe Almeida Correa"
+    "projectName": "fac-expandable-component",
+    "projectOwner": "Felipe Almeida Correa",
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "commit": false,
+    "commitConvention": "none",
+    "contributors": [
+        {
+            "login": "felipealmeidacorrea",
+            "name": "Felipe Almeida Correa",
+            "avatar_url": "https://avatars.githubusercontent.com/u/80332784?s=400&u=39a0fae5c173287e464a808efc28e146b5c6f299&v=4",
+            "profile": "https://github.com/felipealmeidacorrea",
+            "contributions": [
+                "code"
+            ]
+        }
+    ],
+    "contributorsPerLine": 7,
+    "skipCi": true
 }
