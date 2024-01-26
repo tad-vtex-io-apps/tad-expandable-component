@@ -1,5 +1,5 @@
 {
-  "name": "fac-expandable-component",
+  "name": "tad-expandable-component",
   "version": "0.0.1",
   "dependencies": {
     "apollo-client": "^2.6.8",

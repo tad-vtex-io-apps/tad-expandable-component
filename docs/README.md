@@ -13,7 +13,7 @@ O ExpandableComponent é um componente React que limita a altura do conteúdo e 
 ```json
 {
   "vendor": "{vendor}",
-  "name": "fac-expandable-component",
+  "name": "tad-expandable-component",
   "version": "0.0.1",
   "title": "Expandable Component",
   "description": "App limitador de altura de conteúdo com botão para exibir mais/menos",
@@ -27,7 +27,7 @@ O ExpandableComponent é um componente React que limita a altura do conteúdo e 
 
 ```json
   "dependencies": {
-    "{vendor}.fac-expandable-component": "0.x"
+    "{vendor}.tad-expandable-component": "0.x"
   }
 ```
 
