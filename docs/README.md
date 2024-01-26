@@ -54,3 +54,16 @@ O ExpandableComponent é um componente React que limita a altura do conteúdo e 
 - `maxHeight`: (string | object) - A altura máxima do conteúdo. Pode ser uma string (ex: "100px") ou um objeto com propriedades "desktop" e "mobile" (ex: { desktop: "100px", mobile: "80px" }).
 - `seeMoreText`: (string) - O texto exibido no botão para expandir o conteúdo.
 - `seeLessText`: (string) - O texto exibido no botão para recolher o conteúdo.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
