@@ -1,0 +1,7 @@
+{
+  "expandable-component": {
+    "component": "ExpandableComponent",
+    "composition": "children",
+    "allowed": "*"
+  }
+}

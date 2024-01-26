@@ -1,0 +1,24 @@
+{
+  "vendor": "vendor",
+  "name": "fac-expandable-component",
+  "version": "0.0.1",
+  "title": "Expandable Component",
+  "description": "App limitador de altura de conteúdo com botão para exibir mais/menos",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "store": "0.x"
+  },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "dependencies": {
+    "vtex.responsive-values": "0.x",
+    "vtex.css-handles": "1.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
