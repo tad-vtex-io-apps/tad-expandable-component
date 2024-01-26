@@ -1,6 +1,6 @@
 {
   "vendor": "vendor",
-  "name": "fac-expandable-component",
+  "name": "tad-expandable-component",
   "version": "0.0.1",
   "title": "Expandable Component",
   "description": "App limitador de altura de conteúdo com botão para exibir mais/menos",
